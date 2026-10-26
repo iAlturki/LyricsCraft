@@ -1,0 +1,10 @@
+{
+  "key.category.lyricscraft.main": "LyricsCraft",
+  "key.lyricscraft.toggle_hud": "Şarkı Sözlerini Aç/Kapat",
+  "key.lyricscraft.open_config": "LyricsCraft Ayarlarını Aç",
+  "key.lyricscraft.play_pause": "Müziği Oynat / Duraklat",
+  "key.lyricscraft.next_track": "Sonraki Şarkı",
+  "key.lyricscraft.prev_track": "Önceki Şarkı",
+  "key.lyricscraft.seek_back": "Sözleri 5 Saniye Geciktir",
+  "key.lyricscraft.seek_forward": "Sözleri 5 Saniye Öne Al"
+}

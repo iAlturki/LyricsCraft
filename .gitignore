@@ -1,0 +1,14 @@
+# Gradle (the mod JAR is shipped as a Release, not committed)
+.gradle/
+build/
+out/
+run/
+*.log
+
+# IDE / OS cruft
+.idea/
+*.iml
+.vscode/
+bin/
+Thumbs.db
+desktop.ini

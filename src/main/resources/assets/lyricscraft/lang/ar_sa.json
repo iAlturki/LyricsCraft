@@ -1,0 +1,10 @@
+{
+  "key.category.lyricscraft.main": "LyricsCraft",
+  "key.lyricscraft.toggle_hud": "إظهار الكلمات أو إخفاؤها",
+  "key.lyricscraft.open_config": "إعدادات LyricsCraft",
+  "key.lyricscraft.play_pause": "تشغيل / إيقاف مؤقت",
+  "key.lyricscraft.next_track": "المقطع التالي",
+  "key.lyricscraft.prev_track": "المقطع السابق",
+  "key.lyricscraft.seek_back": "تأخير الكلمات 5 ثوانٍ",
+  "key.lyricscraft.seek_forward": "تقديم الكلمات 5 ثوانٍ"
+}

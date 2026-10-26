@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "lyricscraft",
+  "version": "${version}",
+  "name": "LyricsCraft",
+  "description": "Synced song lyrics in Minecraft: a now-playing HUD, lyrics floating in the world or landing word by word on the blocks, with full Arabic support.",
+  "authors": [
+    "iALTURKi"
+  ],
+  "contact": {
+    "homepage": "https://github.com/iAlturki/LyricsCraft",
+    "sources": "https://github.com/iAlturki/LyricsCraft",
+    "issues": "https://github.com/iAlturki/LyricsCraft/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/lyricscraft/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.ialturki.lyricscraft.LyricsCraft"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": ">=0.162.0"
+  }
+}
