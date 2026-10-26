@@ -32,6 +32,9 @@
 
 Songs are picked up from anything that shows in the Windows media controls: Spotify, YouTube Music in the browser or a desktop app such as [ytr-music](https://github.com/iAlturki/ytr-music), Apple Music, TIDAL, SoundCloud and others.
 
+> [!TIP]
+> **Optional, for the best compatibility:** play your music in [ytr-music](https://github.com/iAlturki/ytr-music), an ad-free YouTube Music app for Windows. It reports the exact song, artist, length and playback position, and since LyricsCraft also finds lyrics on YouTube Music, the songs you play there match best. Any other player works too.
+
 ## Controls
 
 | Key | Action |
