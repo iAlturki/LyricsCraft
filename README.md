@@ -4,6 +4,8 @@
 
 # LyricsCraft
 
+**by [iALTURKi](https://github.com/iAlturki)**
+
 🎵 Synced song lyrics inside Minecraft. Whatever you play on your PC shows up as a now-playing card, and its lyrics follow the song: on the HUD, floating in the world, or landing word by word on the blocks around you. Arabic songs read right to left with joined letters.
 
 [![Download Latest Release](https://img.shields.io/github/v/release/iAlturki/LyricsCraft?label=Download&style=for-the-badge&color=brightgreen)](https://github.com/iAlturki/LyricsCraft/releases/latest)
@@ -83,8 +85,10 @@ The mod JAR is written to `build/libs/`. Every push is built by GitHub Actions.
 
 ## Credits
 
-LyricsCraft started from [LyricsPlus](https://www.curseforge.com/minecraft/mc-mods/lyrics) 3.0.0 by FRK, a Minecraft 1.20.1 mod under the MIT License. Lyrics come from [LRCLIB](https://lrclib.net) and YouTube Music; they belong to their rights holders.
+Made by **[iALTURKi](https://github.com/iAlturki)**: Minecraft 26.3 support, lyrics in the world and on the blocks, word-by-word lyrics, Arabic and right-to-left support, matching by song length and the YouTube Music source. Also by iALTURKi: [ytr-music](https://github.com/iAlturki/ytr-music), the ad-free YouTube Music app for Windows.
+
+Based on [LyricsPlus](https://www.curseforge.com/minecraft/mc-mods/lyrics) 3.0.0 by FRK, a Minecraft 1.20.1 mod under the MIT License. Lyrics come from [LRCLIB](https://lrclib.net) and YouTube Music; they belong to their rights holders.
 
 ## License
 
-[MIT](LICENSE)
+MIT © 2026 iALTURKi. See [LICENSE](LICENSE), [NOTICE](NOTICE), and [AUTHORS](AUTHORS). If you fork or redistribute, keep the copyright notice and attribution intact.
